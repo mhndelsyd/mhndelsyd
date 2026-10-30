@@ -110,73 +110,21 @@ class DataAnalyst:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mhndelsyd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhndelsyd&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhndelsyd&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhndelsyd&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" />
 </div>
 
 ---
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Sales Performance Dashboard
-Interactive Power BI dashboard tracking revenue, profit margins, and regional trends.
-
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-🔗 [View Project](https://github.com/mhndelsyd/sales-dashboard)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Customer Churn Analysis
-Python EDA + predictive model to identify customers at risk of leaving.
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-
-🔗 [View Project](https://github.com/mhndelsyd/churn-analysis)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 E-commerce SQL Analysis
-Advanced SQL (CTEs, window functions) uncovering customer behavior and product trends.
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-🔗 [View Project](https://github.com/mhndelsyd/ecommerce-sql)
-
-</td>
-<td width="50%" valign="top">
-
-### 📉 COVID-19 Data Exploration
-Cleaning and visualizing global data with Pandas and Plotly.
-
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-
-🔗 [View Project](https://github.com/mhndelsyd/covid-analysis)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -194,7 +142,7 @@ Cleaning and visualizing global data with Pandas and Plotly.
 
 | 1️⃣ Collect | 2️⃣ Clean | 3️⃣ Analyze | 4️⃣ Visualize | 5️⃣ Communicate |
 |:---:|:---:|:---:|:---:|:---:|
-| SQL, APIs, Excel | Python, Pandas | Statistics, EDA | Power BI, Tableau | Reports & Insights |
+| SQL, APIs, Excel | Python, Pandas |  Power BI, Tableau | Reports & Insights |
 
 </div>
 
