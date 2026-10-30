@@ -138,7 +138,7 @@ Interactive Power BI dashboard tracking revenue, profit margins, and regional tr
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-🔗 [View Project](https://github.com/YOUR_USERNAME/sales-dashboard)
+🔗 [View Project](https://github.com/mhndelsyd/sales-dashboard)
 
 </td>
 <td width="50%" valign="top">
@@ -149,7 +149,7 @@ Python EDA + predictive model to identify customers at risk of leaving.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-🔗 [View Project](https://github.com/YOUR_USERNAME/churn-analysis)
+🔗 [View Project](https://github.com/mhndelsyd/churn-analysis)
 
 </td>
 </tr>
@@ -161,7 +161,7 @@ Advanced SQL (CTEs, window functions) uncovering customer behavior and product t
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-🔗 [View Project](https://github.com/YOUR_USERNAME/ecommerce-sql)
+🔗 [View Project](https://github.com/mhndelsyd/ecommerce-sql)
 
 </td>
 <td width="50%" valign="top">
@@ -172,7 +172,7 @@ Cleaning and visualizing global data with Pandas and Plotly.
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-🔗 [View Project](https://github.com/YOUR_USERNAME/covid-analysis)
+🔗 [View Project](https://github.com/mhndelsyd/covid-analysis)
 
 </td>
 </tr>
@@ -183,7 +183,7 @@ Cleaning and visualizing global data with Pandas and Plotly.
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mhndelsyd&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
 </div>
 
 ---
@@ -203,10 +203,9 @@ Cleaning and visualizing global data with Pandas and Plotly.
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/YOUR_KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/inkedin.com/in/mohand-elsayed44/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mhnd.jmah0815@compit.aun.edu.eg"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://cv-gallery-charm.lovable.app"><img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </div>
 
 <br>
