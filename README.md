@@ -120,18 +120,6 @@ class DataAnalyst:
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhndelsyd&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" />
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhndelsyd&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
-</div>
-
 ---
 
 ## 🔄 My Data Workflow
