@@ -1,9 +1,5 @@
 
 <!-- ============================================================
-  HOW TO USE:
-  1. Create a PUBLIC repo named exactly like your GitHub username
-  2. Add this file as README.md
-  3. Replace every YOUR_USERNAME and YOUR_NAME below
 ============================================================ -->
 
 <!-- ============ HEADER BANNER ============ -->
@@ -42,10 +38,10 @@ Hi, I'm <i>Mohand</i> — a **Data Analyst** who loves finding the story hidden 
 - 🔭 I analyze data to help businesses make smarter, faster decisions
 - 📊 I build interactive dashboards and clear, actionable reports
 - 🧹 I clean, transform, and model messy data into reliable datasets
-- 🌱 Currently learning: **Machine Learning, dbt, and Advanced SQL**
+- 🌱 Currently learning: **Tableau, dbt, and Advanced SQL**
 - 🎯 Looking for: **Data Analyst / BI Analyst opportunities**
 - 💬 Ask me about: **SQL, Excel, Power BI, Python, data storytelling**
-- ⚡ Fun fact: *I believe every good chart should answer a question*
+- ⚡ Fun fact:* the more data, the more likely to win the war*
 
 </td>
 <td width="40%" align="center">
