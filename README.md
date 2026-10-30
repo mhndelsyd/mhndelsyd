@@ -23,7 +23,7 @@
 <!-- ============ BADGES ============ -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2c5364&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=203a43&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/followers/Mohand Elsayed?label=Followers&style=for-the-badge&color=203a43&logo=github" alt="followers" />
   <img src="https://img.shields.io/badge/Open%20to-Work-2ea44f?style=for-the-badge" alt="open to work" />
 </div>
 
@@ -37,7 +37,7 @@
 <tr>
 <td width="60%">
 
-Hi, I'm **YOUR_NAME** — a **Data Analyst** who loves finding the story hidden inside the numbers.
+Hi, I'm <i>Mohand</i> — a **Data Analyst** who loves finding the story hidden inside the numbers.
 
 - 🔭 I analyze data to help businesses make smarter, faster decisions
 - 📊 I build interactive dashboards and clear, actionable reports
@@ -59,9 +59,9 @@ Hi, I'm **YOUR_NAME** — a **Data Analyst** who loves finding the story hidden 
 ```python
 class DataAnalyst:
     def __init__(self):
-        self.name = "YOUR_NAME"
+        self.name = "Mohand_Elsayed"
         self.skills = ["SQL", "Python",
-                       "Power BI", "Excel"]
+                       "Power BI", "Excel", "Tableau"]
         self.passion = "Data Storytelling"
 
     def mission(self):
