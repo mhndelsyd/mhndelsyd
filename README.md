@@ -22,7 +22,7 @@
 
 <!-- ============ BADGES ============ -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2c5364&style=for-the-badge" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=mhndelsyd&label=Profile%20Views&color=2c5364&style=for-the-badge" alt="views" />
   <img src="https://img.shields.io/github/followers/Mohand Elsayed?label=Followers&style=for-the-badge&color=203a43&logo=github" alt="followers" />
   <img src="https://img.shields.io/badge/Open%20to-Work-2ea44f?style=for-the-badge" alt="open to work" />
 </div>
